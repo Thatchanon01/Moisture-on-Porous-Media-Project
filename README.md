@@ -230,11 +230,4 @@ R_a*T_out);
    zlabel("Y_v")
    ```
 
-### Step 8 **Plotting**
-   - **Multiple Figures**: The code includes multiple plotting sections that visualize the profiles of vapor mass fraction, relative humidity, moisture content, thermal conductivity, and temperature distribution within the wall.
-
-   ```matlab
-   % No additional code needed here, as the plotting is already integrated within each section above.
-   ```
-
 ---
